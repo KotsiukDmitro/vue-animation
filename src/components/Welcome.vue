@@ -29,12 +29,12 @@ onUnmounted(() => {
         Доброго вечора ми з
         <div class="text-9xl relative">
           <span
-            class="accent accent-stroke absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-transparent"
-            >Ukraine</span
+            class="accent-stroke absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-transparent"
+            >України</span
           ><br />
           <span
-            class="accent accent-wave absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-transparent"
-            >Ukraine</span
+            class="accent-wave absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-transparent"
+            >України</span
           ><br />
         </div>
       </div>
